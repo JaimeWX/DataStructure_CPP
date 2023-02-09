@@ -14,14 +14,12 @@ void print_data(SqList L)
 main()
 {   
     // GetElem.c
-    /*
     ElemType e;
     printf("%d\n",GetElem(sqlist,4,&e));
     printf("%d\n",e);
-    */
+
 
     // ListInsert.c
-    /*
     print_data(sqlist);
     int insert_index = 4;
     ElemType insert_e = 36;
@@ -29,7 +27,7 @@ main()
     L = &sqlist;
     printf("%d\n",ListInsert(L, insert_index, insert_e));
     print_data(sqlist);
-    */
+
 
    // ListDelete.c
    print_data(sqlist);
