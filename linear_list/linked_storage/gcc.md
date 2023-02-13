@@ -1,0 +1,1 @@
+gcc -o main InitList.c ListInsert.c ListTraverse.c ListEmpty.c ListLength.c GetElem.c LocateElem.c ClearList.c CreateListHead.c CreateListTail.c main.c
