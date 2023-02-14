@@ -1,0 +1,1 @@
+gcc -o main init_stack.c push.c pop.c traverse_stack.c stack_empty.c get_top.c stack_length.c clear_stack.c main.c
