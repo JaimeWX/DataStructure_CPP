@@ -1,0 +1,1 @@
+gcc -o main init_ls.c traverse_ls.c push.c pop.c ls_empty.c get_top.c ls_length.c clear_ls.c main.c
