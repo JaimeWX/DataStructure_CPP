@@ -1,0 +1,1 @@
+gcc -o main init_bitree.c create_bitree.c preorder_traverse.c inorder_traverse.c postorder_traverse.c  bt_empty.c bt_depth.c bt_root.c clear_bt.c main.c
